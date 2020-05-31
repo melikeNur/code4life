@@ -1,6 +1,6 @@
 # code4life
 
-Group Members : Melike Nur Korkmaz (my name in the game is melikeNur)
+Group Members : Melike Nur Korkmaz (my name in the game is melikeNur)<br>
 Language : Rust
 
 Strategy
